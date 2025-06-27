@@ -1,6 +1,4 @@
-# FProject
-Just learning to use github.
+# Data Structure and Algorithms
+These are my weekly solutions of the practise problems.
 <br>
-Wow! I am making change.
-<br>
-<h1>This is a heading.</h1>
+
